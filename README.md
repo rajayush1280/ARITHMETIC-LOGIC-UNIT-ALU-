@@ -20,3 +20,7 @@ The behavioral simulation was carried out in the Vivado environment. The wavefor
 Designing a basic ALU helps in understanding how arithmetic and logical operations are performed within digital processors. Implementing such designs in Verilog provides valuable knowledge about digital hardware behavior and prepares students for advanced subjects like processor design, FPGA implementation, and digital system architecture. Overall, this project successfully demonstrates the design, simulation, and verification of a basic ALU using Verilog and simulation tools.
 
 **OUTPUT**:
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/c703d424-a369-4eee-8ef2-cc82e7575794" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/9f281967-64bd-48eb-bed2-59483503bf5a" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/9b745dcf-4db8-4277-b3ab-c21fd695f88f" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/89dd7d0c-2f0c-4101-ab0a-537d96bbe669" />
